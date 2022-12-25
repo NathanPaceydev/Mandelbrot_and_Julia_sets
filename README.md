@@ -1,4 +1,4 @@
-# Solving and Analyzing Mandelbrot and Julia_sets
+# Solving and Analyzing Mandelbrot and Julia sets
 Solving the complex recursive algorithms for a Mandelbrot and Julia Set and plotting them. 
 
 
